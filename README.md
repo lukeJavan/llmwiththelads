@@ -1,2 +1,2 @@
 # llmwiththelads
-Large Language Models onF friday nights
+Large Language Models on Friday nights
